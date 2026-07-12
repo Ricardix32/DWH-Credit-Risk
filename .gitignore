@@ -21,9 +21,12 @@ data/raw/*
 data/archive/*
 !data/raw/.gitkeep
 !data/archive/.gitkeep
+!data/landing/.gitkeep
 
 #Python virtual env y archivo para pruebas locales v1.0
 env_idp/*
+env_ml/*
+notebooks/resultados_benchmark/*
 #*.jpg
 #mock_idp_engine.py
 
